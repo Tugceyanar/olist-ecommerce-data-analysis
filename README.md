@@ -1,19 +1,19 @@
-# 📊 Olist E-Ticaret Veri Analizi
+# 📊 Olist E-Commerce Data Analysis
 
-## 🚚 Teslimat Performansı ve Müşteri Memnuniyeti Analizi
+## 🚚 Delivery Performance & Customer Satisfaction Analysis
 
-Bu projede Olist e-ticaret veri seti kullanılarak teslimat performansı ve müşteri memnuniyeti arasındaki ilişki analiz edilmiştir.
+This project analyzes the relationship between delivery performance and customer satisfaction using the Olist Brazilian E-Commerce dataset.
 
-## 🎯 Projenin Amacı
+## 🎯 Project Objective
 
-Bu çalışma kapsamında aşağıdaki sorulara cevap aranmıştır:
+The main objectives of this analysis are:
 
-- Siparişlerin teslimat performansı nasıldır?
-- Müşteri değerlendirme puanları nasıl dağılmaktadır?
-- Teslimat süresi müşteri memnuniyetini etkiliyor mu?
-- Analiz sonuçlarına göre hangi iş önerileri geliştirilebilir?
+- Evaluate order delivery performance
+- Analyze customer review score distribution
+- Investigate the impact of delivery time on customer satisfaction
+- Generate business recommendations based on analytical findings
 
-## 🛠️ Kullanılan Araçlar
+## 🛠️ Tools & Technologies
 
 - Python
 - Pandas
@@ -21,16 +21,20 @@ Bu çalışma kapsamında aşağıdaki sorulara cevap aranmıştır:
 - Plotly
 - SciPy
 
-## 📈 Analiz Kapsamı
+## 📈 Analysis Scope
 
-- Veri Kalitesi Analizi
-- Sipariş Analizi
-- Ürün Kategorisi Analizi
-- Ödeme Yöntemi Analizi
-- Teslimat Performansı Analizi
-- Müşteri Memnuniyeti Analizi
-- Hipotez Testi
+- Data Quality Assessment
+- Order Analysis
+- Product Category Analysis
+- Payment Method Analysis
+- Delivery Performance Analysis
+- Customer Satisfaction Analysis
+- Hypothesis Testing
 
-## ✅ Sonuç
+## 📂 Dataset
 
-Analiz sonucunda teslimat süresi ile müşteri memnuniyeti arasında istatistiksel olarak anlamlı bir ilişki olduğu görülmüştür.
+Dataset Source: Olist Brazilian E-Commerce Public Dataset (Kaggle)
+
+## ✅ Key Findings
+
+The analysis revealed a statistically significant relationship between delivery time and customer satisfaction. Customers who received their orders faster tended to provide higher review scores, highlighting the importance of efficient logistics and delivery operations in improving customer experience.
